@@ -1,2 +1,3 @@
 # Cryptography
-This cryptography program hides or codes information so that only the person a message was intended for can read it. It encodes and decodes the message using the png files provided.
+The provided program is a steganography application written in Python. Steganography is the practice of hiding secret information within a non-secret medium, such as an image, in a way that does not raise suspicion. The program allows users to encode a text message into an image file using different encoding techniques (codecs) and to decode the hidden message from an encoded image. The steganography program provides a simple yet versatile tool for encoding and decoding messages within images, supporting different encoding methods. Users can interact with the program through a command-line interface to perform various operations related to hiding and revealing hidden messages in images.
+
